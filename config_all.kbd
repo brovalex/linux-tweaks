@@ -15,7 +15,7 @@
   tab   q    w    e    r    t    y    u    i    o    p    [     ]      ret               pgup
   caps  a    s    d    f    g    h    j    k    l    ;    '     \                        pgdn
   lsft  z    x    c    v    b    n    m    ,    .    /    rsft         up                end
-  lctl  lalt lmet      spc       lmet ralt rctl                 left   down   rght
+  lctl  lalt lmet      spc       rmet ralt rctl                 left   down   rght
   )
 
 ;; here I swap the caps for Ctrl-Alt-Super-Shift
@@ -28,5 +28,5 @@
   tab   q    w    e    r    t    y    u    i    o    p    [     ]      ret               pgup
   @sym  a    s    d    f    g    h    j    k    l    ;    '     \                        pgdn
   lsft  z    x    c    v    b    n    m    ,    .    /    rsft         up                end
-  lctl  lalt lmet      spc       lmet ralt rctl                 left   down   rght
+  lctl  lalt lmet      spc       rmet ralt rctl                 left   down   rght
   )
